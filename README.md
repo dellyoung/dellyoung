@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### Hello 👏
 - I’m writing TS and Rust
 - I’m working at WeChat  
-- I’m the main developer of the less-rs
 - How to reach me
   - dellyoung@126.com
   - [zhihu](https://www.zhihu.com/people/yang-yiming-22)
